@@ -25,21 +25,21 @@ A. MÔ TẢ VỀ Android Studio:
 
 - Mở tập tin MenuExampleActivity.java và thêm phương thức đến lớp MenuExampleActivity
 
-![image](Untitled23.png)
+![image](Untitled22.png)
 
 ### Sau khi chúng ta nhập xong phần Activity.java xong
 - Chúng ta thực hiện chạy trên giả lập
 
-![image](Untitled24.png)
+![image](Untitled23.png)
 
 ### Chúng ta ấn vào dấu 3 chấm...
 -thực thi lệnh red , sẽ hiện màu red
 
-![image](Untitled25.png)
+![image](Untitled24.png)
 
 -thực thi lệnh Blue, sẽ hiện mà Blue
 
-![image](Untitled26.png)
+![image](Untitled25.png)
 
 ### Kết luận
 - Trong bài này chúng ta đã tìm hiểu về thực đơn tùy chọn, một trong những thành phần quan trọng trên giao diện người dùng, trong Android. Mã nguồn hoàn chỉnh của các tập tin trong ứng dụng MenuExample
